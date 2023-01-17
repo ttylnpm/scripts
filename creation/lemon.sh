@@ -48,7 +48,7 @@ rm install-repo.sh
 sleep 1
 clear
 # Installing L3MON!
-echo Cloning L3MON's github repo!
+echo Cloning L3MONs github repo!
 cd
 git clone https://github.com/gituu4567/L3MON-1
 sleep 1
