@@ -49,7 +49,7 @@ sleep 1
 clear
 # Installing L3MON!
 echo Cloning L3MONs github repo!
-cd
+cd $HOME
 git clone https://github.com/gituu4567/L3MON-1
 sleep 1
 cd L3MON-1
